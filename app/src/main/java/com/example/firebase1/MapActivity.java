@@ -138,7 +138,7 @@ public class MapActivity extends AppCompatActivity implements OnMapReadyCallback
 
 
         //use your google api key to create a GeoApiContext instance
-        GeoApiContext context = new GeoApiContext.Builder().apiKey("AIzaSyCYPAhwyahLogUCWsPztBXl9wRmpJF-EHo").build();
+        GeoApiContext context = new GeoApiContext.Builder().apiKey("xxxxx").build();
 
 
         //this will get geolocation details via address
